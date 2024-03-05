@@ -6,4 +6,4 @@
 - Textbook: [A first course in stochastic calculus by Louis-Pierre Arguin, American Mathematical Society, 2022]
 
 ## Updates on Numerical Assignments
-Here are the updated answers to the numerical assignments in the textbook. Occasionally, I will supplement content from the previous course in Statistics - Statistical Learning, which utilized Ross's simulation.
+Here, I'll be updating my practice numerical assignments from the textbook. Occasionally, I'll supplement with content previously covered in the statistics course - "Statistical Learning" using Ross's simulation.
