@@ -1,8 +1,8 @@
 # 2024-Spring--Introduction-to-stochastic-calculus
 ## Course Details
-- Course Name: Random Calculus
+- Course Name: Introduction to stochastic calculus
 - Department: Applied Mathematics, Graduate Program
-- Instructor: Xu Yuanchun
+- Instructor: 許元春
 - Textbook: [A first course in stochastic calculus by Louis-Pierre Arguin, American Mathematical Society, 2022]
 
 ## Updates on Numerical Assignments
