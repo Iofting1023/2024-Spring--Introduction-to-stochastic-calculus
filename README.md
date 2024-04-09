@@ -14,4 +14,4 @@ Here, I'll be updating my practice numerical assignments from the textbook. Occa
 | Chapter      | Title       | Date       | hackmd link       |
 |-----------|-----------|-----------|-----------|
 | Ch1 | Basic Notions of Probability| 2023/04/09 | https://hackmd.io/unFH0uarTIiyYAHm-fAseQ |
-
+| Ch2 | Gaussian Processes| | |
