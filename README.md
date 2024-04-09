@@ -7,6 +7,7 @@
 
 ## Updates on Numerical Assignments
 Here, I'll be updating my practice numerical assignments from the textbook. Occasionally, I'll supplement with content previously covered in the statistics course - "Statistical Learning" using Ross's simulation.
+You can visit my hackmd to see  the detail https://hackmd.io/4m94zjAmQYSZ6dupjdsNRw
 
 ## Contente
 **You can find all the code in the code folder, and you can locate the .md files in the markdown folder. However, it's recommended to view them on HackMD.**
